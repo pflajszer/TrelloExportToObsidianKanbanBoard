@@ -5,6 +5,7 @@ A simple script allowing migrating Trello boards > lists > cards to markdown fil
 By all means, it's not perfect. A few issues I've noticed:
 - it brings back some 'phantom' tasks back to live (most likely the deleted ones)
 - it doesn't bring in empty lists
+- it cocks up the order of tasks within cards
 
 Nonetheless... It helped me and may also help you save some copy-paste labour, or provide a baseline for a more robust script if it proves useful.
 
