@@ -1,5 +1,8 @@
 # TrelloExportToObsidianKanbanBoard
 
+## UPDATE 13.01.2024
+It's been brought to my attention that there's a better solution in place called [t2md](https://github.com/GSGBen/t2md). Therefore, I'm closing this repo for any further updates.
+
 A simple script allowing migrating Trello boards > lists > cards to markdown files supported by [Kanban extension in Obsidian](https://github.com/mgmeyers/obsidian-kanban).
 
 By all means, it's not perfect. A few issues I've noticed:
